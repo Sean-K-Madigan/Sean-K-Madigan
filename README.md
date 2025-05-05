@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sean-K-Madigan
-- 👀 I’m interested in changing careers to get into tech, specifically web development and software engineering.
-- 🌱 I’m currently learning JavaScript through codecademy, CS50 Intro to computer science through HarvardX, and taking a Coding Bootcamp through the University of Utah.
-- 💞️ I’m looking to collaborate about building a competitive portfolio. Any and all advice is welcome!
+- 👀 I’m interested in advancing careers into into FinTech from a more traditional Finance background.
+- 🌱 I’m currently deepeing my knowledge in SQL and Python and a I have a string grasp on the Development side with the MERN Stack.
+- 💞️ I’m looking to collaborate on projects that give me the opportunity to learn and grow my skills.
 - 📫 How to reach me: via the comments or on Linkedin @Sean Madigan
 - ⚡ Fun fact: I speak 4 languages and am looking forward to being able to code in many more.
 
